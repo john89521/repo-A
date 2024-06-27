@@ -2,4 +2,4 @@
 
 This is a test file.  
 
-![time off idea](..media/time off ideas.png)  
+![time off idea](https://github.com/john89521/repo-A/blob/main/media/time%20off%20ideas.png)  
