@@ -9,3 +9,5 @@ _Adding this line from the dev GH site_
 
 ### Image   
 <img src="media/stafftools-search-image.png" width="600">
+
+<p>Adding this line to test Desktop. </p>
