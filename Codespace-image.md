@@ -1,1 +1,1 @@
-<img src"media/Codespaces-Org-Setting-Disabled.png" width="600">
+<img src="media/Codespaces-Org-Setting-Disabled.png" width="900">
